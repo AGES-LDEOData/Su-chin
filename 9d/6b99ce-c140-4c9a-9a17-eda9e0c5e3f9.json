@@ -1,0 +1,121 @@
+{
+    "acquisition_software": "pychron 20.1.1",
+    "aliquot": 2,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "2.0:2.1",
+    "comment": "",
+    "conditionals": null,
+    "data_collection_commit": "d56f76281558c0caac7326560531c2a743949ecf",
+    "data_reduction_software": "pychron 20.1.1",
+    "detectors": {
+        "AX": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "H4": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L4": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Load103i",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_co2.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "101034",
+    "increment": 8,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "AGESLDEO-127",
+    "irradiation_level": "D",
+    "irradiation_position": 10,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L4",
+            "name": "Ar36",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar39": {
+            "detector": "H2",
+            "name": "Ar39",
+            "serial_id": "00000",
+            "units": "fA"
+        },
+        "Ar40": {
+            "detector": "H4",
+            "name": "Ar40",
+            "serial_id": "00000",
+            "units": "fA"
+        }
+    },
+    "laboratory": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Ngx",
+    "material": "basalt",
+    "measurement": "ngx_air_ten_75_FFFFM.py",
+    "meta_commit": "cc74404d0e02527f428a9036faafae43c54af9cd",
+    "note": null,
+    "post_equilibration": "ngx_pump_unknown.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "Chang, S",
+    "project": "Su-chin",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Su-chin",
+    "rlocation": "",
+    "sample": "20120809-6",
+    "source": {
+        "emission": 918.0,
+        "trap": 400.04434
+    },
+    "spec_sha": "3edcd9e5465b100b073d7e37c267f3631a78ff82",
+    "time_zero_timestamp": "2024-01-27T18:51:08.810656",
+    "timestamp": "2024-01-27T19:08:41.096561",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "9d6b99ce-c140-4c9a-9a17-eda9e0c5e3f9",
+    "whiff_result": null
+}
