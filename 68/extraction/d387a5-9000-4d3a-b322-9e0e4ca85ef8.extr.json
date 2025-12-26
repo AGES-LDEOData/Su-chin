@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 300.0,
+    "commit": "5194c5a31e6fdf74381b6fc21e76533381191473",
+    "cryo_temperature": 0.0,
+    "extract_device": "Chromium CO2",
+    "extract_duration": 125.0,
+    "extract_units": "watts",
+    "extract_value": 12.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "56-spot",
+    "load_name": "137",
+    "measured_response": null,
+    "pattern": "rasterrubberbandpattern_br1.0-56-spot.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 5,
+            "x": -0.126,
+            "y": 5.439,
+            "z": 0.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "timestamp": "2025-12-25T19:18:22.015610",
+    "tray": "56-spot",
+    "videos": [],
+    "weight": 0
+}
