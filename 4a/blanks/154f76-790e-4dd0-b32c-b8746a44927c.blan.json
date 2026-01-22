@@ -237,9 +237,9 @@
         "value": 7.904991141301685e-07
     },
     "Ar39": {
-        "error": 6.436395517955093e-07,
+        "error": 1.5140176729111631e-13,
         "error_type": "",
-        "fit": "Average_SEM",
+        "fit": "Linear_SEM",
         "references": [
             {
                 "exclude": "ok",
@@ -313,7 +313,7 @@
             }
         ],
         "reviewed": true,
-        "value": 2.445435528593739e-06
+        "value": -5.177056347308947e-06
     },
     "Ar40": {
         "error": 8.361246786232506e-10,
